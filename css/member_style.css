@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+body {
+  background-color : #f4ebd9;
+  font-family: 'Acme', sans-serif!important;
+}
+
+footer {
+  text-align: center;
+  background-color: #A98B76;
+  color: white;
+}
+
+//button
+
+button {
+  border: double;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}   
+
+h1 {
+  border-style: dashed;
+  border-width: thick;
+  padding : 10px;
+  border-color: chocolate;
+}
+
